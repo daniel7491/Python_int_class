@@ -54,3 +54,5 @@ print(f"{number_1} % {number_2} = {(number_1 % number_2)}")
 
 print(25 % 2)
 print(24 % 2)
+
+
