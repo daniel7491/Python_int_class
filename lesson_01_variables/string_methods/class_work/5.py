@@ -1,0 +1,11 @@
+s = input("enter a string: ")
+
+print(s.lower())
+print(s.upper())
+print(s.capitalize())
+print(s.title())
+print(s.split())
+f = s.split()
+x = sorted(f)
+print(x[0])
+print(x[-1])
