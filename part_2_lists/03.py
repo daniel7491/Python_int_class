@@ -1,0 +1,5 @@
+x = list(map(int, input("enter values: ").split()))
+y = sorted(x)
+z = sorted(x,reverse=True)
+print(y)
+print(z)
